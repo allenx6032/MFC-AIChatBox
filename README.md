@@ -32,6 +32,7 @@ AI ChatBox是一个基于MFC框架开发的本地AI聊天程序，集成了大�
 2. 下载[llama.cpp](https://github.com/ggerganov/llama.cpp)项目中的[release版本](https://github.com/ggerganov/llama.cpp/releases/tag/b4604),找到llama-b4604-bin-win-avx-x64.zip并解压,将以下文件复制到项目的server文件夹下
 
 ![界面截图](image/server目录.png)
+
 3. 到[魔塔社区](https://modelscope.cn/models)下载模型，将模型文件放到项目的models文件夹下,注意模型必须为gguf格式，这样才能被llama.cpp识别
 4. 运行AIChatBox.exe
 
@@ -49,6 +50,7 @@ AI ChatBox是一个基于MFC框架开发的本地AI聊天程序，集成了大�
 2. 下载[llama.cpp](https://github.com/ggerganov/llama.cpp)项目中的[release版本](https://github.com/ggerganov/llama.cpp/releases/tag/b4604),找到llama-b4604-bin-win-avx-x64.zip并解压,将以下文件复制到项目的server文件夹下
 
 ![界面截图](image/server目录.png)
+
 3. 到[魔塔社区](https://modelscope.cn/models)下载模型，将模型文件放到项目的models文件夹下,注意模型必须为gguf格式，这样才能被llama.cpp识别
 4. 使用Visual Studio 2022打开项目，配置项目属性，将项目的平台工具集改为Visual Studio 2022 (v143)
 5. 编译项目，运行
