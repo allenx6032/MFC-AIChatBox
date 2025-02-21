@@ -8,10 +8,6 @@
 AI ChatBox是一个基于MFC框架开发的本地AI聊天程序，集成了大型语言模型，支持多轮对话，对话记录保存，主题定制等功能。用户可以选择不同的本地模型，例如qwen、llama、deepseek等，进行对话。AI ChatBox完全离线运行，保护用户隐私。
 
 
-## ▶  项目讲解
-
-https://www.bilibili.com/video/BV1HbPkeZEQD
-
 ## ✨ 功能特性
 
 - 💬 **多轮对话** - 支持上下文感知的连续对话

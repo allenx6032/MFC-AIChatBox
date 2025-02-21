@@ -1,1 +1,0 @@
-llama-server.exe -m ..\models\DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf
